@@ -1,0 +1,6 @@
+E:\VSprojs\MyGitProj1\MyGitProj1\bin\Debug\MyGitProj1.exe.config
+E:\VSprojs\MyGitProj1\MyGitProj1\bin\Debug\MyGitProj1.exe
+E:\VSprojs\MyGitProj1\MyGitProj1\bin\Debug\MyGitProj1.pdb
+E:\VSprojs\MyGitProj1\MyGitProj1\obj\Debug\MyGitProj1.csprojResolveAssemblyReference.cache
+E:\VSprojs\MyGitProj1\MyGitProj1\obj\Debug\MyGitProj1.exe
+E:\VSprojs\MyGitProj1\MyGitProj1\obj\Debug\MyGitProj1.pdb
